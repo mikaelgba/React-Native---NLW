@@ -1,0 +1,3 @@
+# Criar new project --> sem as aspas "expo init nome_projeto"
+
+# executar o projeto --> sem as aspas "expo start"
